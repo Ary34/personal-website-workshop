@@ -1,5 +1,6 @@
 img {
     width: 400px;
+    
 }
 
 body {
@@ -7,5 +8,25 @@ body {
     font-family: 'Arial';
     background-color: black;
     color: white;
+    
+    
 
+}
+button {
+    font-family: 'Franklin Gothic Medium', 'Arial';
+    font-size: large;
+    background-color: burlywood;
+    color: whitesmoke;
+    width: 150px;
+    height: 50px;
+    border-radius: 15px;
+    
+}
+
+#pizza {
+    width: 150px;
+    position: absolute;
+    top: 35%;
+    left: 49%;
+    display: None;
 }
